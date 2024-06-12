@@ -1,0 +1,6 @@
+test/
+.DS_Store
+.vscode
+null*
+progs/
+scripts/cmd.sh
